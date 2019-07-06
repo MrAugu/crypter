@@ -1,0 +1,15 @@
+{
+  "name": "crypter",
+  "version": "1.0.0",
+  "description": "A hasher that generate 32 bit integers as hashes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.con/MrAugu/crypter"
+  },
+  "author": "MrAugu#9016",
+  "license": "MIT"
+}
